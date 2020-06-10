@@ -9,6 +9,5 @@ public class Lecturer extends Person
         lecturer.walk(20);
         lecturer.sleep();
         System.out.println(lecturer.getName());
-        System.out.println(lecturer.getAge());
     }
 }

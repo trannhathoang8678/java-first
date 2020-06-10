@@ -8,7 +8,5 @@ public class Student extends Person
         student.setName("James Gosling");
         student.walk(20);
         student.sleep();
-        System.out.println(student.getName());
-        System.out.println(student.getAge());
     }
 }
